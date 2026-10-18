@@ -1,6 +1,6 @@
 # flyt.io
 
-Static site for flyt.io, an independent investment advisory (healthtech first, deep tech opportunistically). Plain HTML and CSS, no build step, hosted on GitHub Pages.
+Static site for flyt.io, an independent investment advisory (healthtech first, emerging tech opportunistically). Plain HTML and CSS, no build step, hosted on GitHub Pages.
 
 - `index.html` — the single-page site (phase 1, informational)
 - `styles.css` — styles; colors and fonts are tokens at the top under `:root`

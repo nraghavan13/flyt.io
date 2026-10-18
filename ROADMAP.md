@@ -23,7 +23,7 @@ Design: https://claude.ai/artifact/4VmLJsFymMQbGsP884nvET
 
 ## Nice to have: more complete email support (later phases)
 
-- [ ] Set up `hello@flyt.io` forwarding to `flyt.io26@gmail.com` (e.g. ImprovMX or Cloudflare Email Routing), then switch the site's links to `hello@flyt.io`
+- [ ] Set up `info@flyt.io` forwarding to `flyt.io26@gmail.com` (e.g. ImprovMX or Cloudflare Email Routing), then switch the site's links to `info@flyt.io`
 - [ ] Later: full custom-domain mailbox (Google Workspace, Fastmail or similar), with SPF, DKIM and DMARC set up
 - [ ] Contact form through a static-friendly form service (Formspree, Basin, Netlify Forms or similar), so no backend is needed
 - [ ] Structured investor intake: firm, check size, sector, deal stage, timeline
